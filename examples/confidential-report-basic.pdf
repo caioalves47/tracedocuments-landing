@@ -1,0 +1,61 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 962 >>
+stream
+0 0 0 rg
+BT /F1 18 Tf 72 720 Td (Trace Documents - Confidential Report) Tj ET
+0 0 0 rg
+BT /F1 11 Tf 72 696 Td (Q3 Board Packet - Demonstration Sample) Tj ET
+0 0 0 rg
+BT /F1 10 Tf 72 668 Td (1. Executive summary) Tj ET
+0 0 0 rg
+BT /F1 10 Tf 72 650 Td (Revenue grew 18% YoY. Churn remained under 2.1%.) Tj ET
+0 0 0 rg
+BT /F1 10 Tf 72 632 Td (Enterprise pipeline expanded in LatAm and EU.) Tj ET
+0 0 0 rg
+BT /F1 10 Tf 72 604 Td (2. Risk notes) Tj ET
+0 0 0 rg
+BT /F1 10 Tf 72 586 Td (Unauthorized redistribution of this packet is prohibited.) Tj ET
+0 0 0 rg
+BT /F1 10 Tf 72 568 Td (Each recipient copy can be forensically attributed.) Tj ET
+0.35 0.35 0.35 rg
+BT /F1 9 Tf 72 540 Td (Variant: Basic protection \(serial at bottom-right\).) Tj ET
+0.45 0.45 0.45 rg
+BT /F1 8 Tf 480 36 Td (TD-A7F3C2) Tj ET
+0.15 0.35 0.75 rg
+BT /F1 9 Tf 72 36 Td (Protected - Basic: metadata + serial) Tj ET
+0.7 0.7 0.85 rg
+520 760 60 20 re f
+1 1 1 rg
+BT /F1 8 Tf 528 766 Td (BASIC) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Producer (TraceDocuments Basic) /TD_ProtectionLevel (Basic) /TD_Fingerprint (META:TD-BASIC-DEMO) >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001253 00000 n 
+0000001323 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 6 0 R >>
+startxref
+1591
+%%EOF

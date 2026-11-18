@@ -1,0 +1,82 @@
+{
+    "name": "TraceDocuments",
+    "short_name": "TraceDocs",
+    "description": "Proteção e rastreamento de documentos PDF com fingerprinting avançado.",
+    "start_url": "/app/dashboard",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#0a0a0a",
+    "theme_color": "#6366f1",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "/icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/icons/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ],
+    "categories": [
+        "business",
+        "productivity",
+        "security"
+    ],
+    "lang": "pt-BR",
+    "dir": "ltr",
+    "share_target": {
+        "action": "/app/documents/new",
+        "method": "POST",
+        "enctype": "multipart/form-data",
+        "params": {
+            "files": [
+                {
+                    "name": "file",
+                    "accept": [
+                        "application/pdf",
+                        ".pdf",
+                        "image/*"
+                    ]
+                }
+            ]
+        }
+    },
+    "shortcuts": [
+        {
+            "name": "New Document",
+            "short_name": "New",
+            "url": "/app/documents/new",
+            "icons": [
+                {
+                    "src": "/icons/icon-192.png",
+                    "sizes": "192x192"
+                }
+            ]
+        },
+        {
+            "name": "Leak Check",
+            "short_name": "Leak",
+            "url": "/app/leak-check",
+            "icons": [
+                {
+                    "src": "/icons/icon-192.png",
+                    "sizes": "192x192"
+                }
+            ]
+        }
+    ]
+}
